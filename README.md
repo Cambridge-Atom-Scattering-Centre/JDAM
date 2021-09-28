@@ -1,5 +1,6 @@
 # JDAM
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4049976.svg)](https://doi.org/10.5281/zenodo.4049976)
+arXiv: https://arxiv.org/abs/2105.07805
 
 Copyright (c) 2020, Xy Wang and Nadav Avidor.
 All rights reserved.
